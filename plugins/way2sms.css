@@ -1,0 +1,52 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("way2sms.com") {
+
+#dashboard, .rescore, div.footm, #bottamwall11, div.newad, #logo-menu menu, #sc-menu {
+    display:none;
+}
+#menu,div#login,html body form div#sms div#container div#login div.login h3 {
+border-width:0px !important;
+}
+html body,html body center,div#bgcontain,div#wayListView,iframe#frame, html body center div#bgcontain div#listdash div#wayListView iframe#frame{
+height:600px;
+}
+html {
+height:600px;
+}
+
+html body form div#sms div#header div.tlinks,html body form div#sms div#header div.logo div.mm div.but input#button,html body form div#sms div#container div.content div.ste-ad,html body form div#sms div#container div.content div.error,html body form div#sms div#container div.ste-ad,html body form div#sms div#container div.contDiv {
+    display:none;
+}
+html body center div#bgcontain div#header {
+height:60px !important;
+}
+html body center div#bgcontain div#listdash div#wayListView iframe#frame {
+height:600px !important;
+}
+div#login div.tt,div#login div.reg hr {
+display:none;
+}
+div#login div.reg span {
+margin-bottom:20px;
+}
+html body form div#sms div#container div#login div.reg input#button2 {
+height:42px !important;
+width:148px !important;
+}
+input#Send.schbutton {
+    margin-top:-17px !important;
+}
+div#groupsms div div.flt div a {
+    margin-top:20px;
+}
+html body form table tbody tr td div.shadow div.list div.list-box {
+display:none;
+}
+html body form table tbody tr td div.shadow div.welcome {
+margin-top:-220px !important;
+}
+html body form div#shadow div div#quicksms div div {
+display:none;
+}
+}
