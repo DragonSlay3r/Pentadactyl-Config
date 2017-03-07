@@ -14,7 +14,7 @@ var INFO =
     <p>
         This plugin makes it possible to add Delicious bookmarks from
         {config.appName}, with Delicious tag completion.
-    </p>
+    <
     <item>
         <tags>:delicious</tags>
         <strut/>
